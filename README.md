@@ -15,7 +15,7 @@ Criar e acessar uma máquina virtual no Azure, aplicando os conceitos de computa
 ## Prints da VM
 Aqui esta o print mostrando a VM em funcionamento:
 
-![Print da VM 1](images/Capture)
+![Print da VM 1](images/Capture.PNG)
 
 ## Aprendizado
 - Entendi como criar uma máquina virtual no Azure.
